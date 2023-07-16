@@ -1,4 +1,4 @@
-An open-source ransomware for education purposes.
+A very basic open-source ransomware for education purposes.
 
 
 
